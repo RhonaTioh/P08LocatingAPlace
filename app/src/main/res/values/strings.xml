@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">P08-LocatingAPlace</string>
+    <string name="heading">ABC Pte Ltd \n We now have 3 branches. Look below for the address and info</string>
+    <string-array name="spinnerMaps">
+        <item>------Please Select 1 Area!-----</item>
+        <item>North</item>
+        <item>Central</item>
+        <item>East</item>
+    </string-array>
+</resources>
